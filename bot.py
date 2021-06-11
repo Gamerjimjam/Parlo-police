@@ -55,4 +55,4 @@ async def commands(ctx):
     
     """
 
-client.run('ODUwNzUxODk0NDQyOTk5ODM4.YLuScQ.I4PitU4Md41KvdLeR5HYd03XVHE')
+client.run('ODUwNzUxODk0NDQyOTk5ODM4.YLuScQ.TRIexXpn8pscMa9EJgF6Ns8BJ2g')
