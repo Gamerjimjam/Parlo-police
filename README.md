@@ -1,3 +1,3 @@
 # i made this bot with discord.py before it was depricated.
 
-![edp-edit](https://cdn.discordapp.com/attachments/857283415002447915/939563906496614421/daddy.mov)
+![edp-edit](https://user-images.githubusercontent.com/85574259/152650920-f555c307-4292-4846-816b-ba66d6beff7c.mp4)
