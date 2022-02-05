@@ -122,4 +122,4 @@ async def ping(ctx):
 async def bobux(ctx):
     await ctx.send('https://media.discordapp.net/attachments/797934906918305822/856653125602902016/E4WtjUQVgAM0h07.png')
     
-client.run('ODUwNzUxODk0NDQyOTk5ODM4.YLuScQ.TRIexXpn8pscMa9EJgF6Ns8BJ2g')
+client.run('no')
